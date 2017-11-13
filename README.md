@@ -14,7 +14,7 @@ A simple share plug-in, share free just by using function command.
 
 1. With npm
 
-For example you want share this url `http://example.com`, and the share title is **THIS IS TITLE**, content is **THIS IS DESCRIPTION**, picture path is **http://picture.png**.
+For example you want share this url `http://example.com`, and the share title is **THIS IS TITLE**, content is **THIS IS DESCRIPTION**, picture path is `http://picture.png`.
 
 Just use:
 
